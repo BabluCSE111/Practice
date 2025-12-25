@@ -5,7 +5,7 @@
 う (u) — oo  
 え (e) — eh  
 お (o) — oh
-Hiragana Sounds & Pronunciation (day2.jpeg)
+### Hiragana Sounds & Pronunciation 
 か (ka) — kah
 き (ki) — kee
 く (ku) — koo
