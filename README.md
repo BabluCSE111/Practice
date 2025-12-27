@@ -16,3 +16,9 @@
 す (su) — soo
 せ (se) — seh
 そ (so) — soh
+###  Hiragana Sounds & Pronunciation
+た (ta) — tah  
+ち (chi) — chee  
+つ (tsu) — tsoo  
+て (te) — teh  
+と (to) — toh  
